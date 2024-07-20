@@ -9,4 +9,4 @@ Feature Information Display: The tool provides detailed information about the ex
 The application can work with any grayscale or color images. Users can capture photos using the application or upload their own images for feature extraction.
 
 ## Methodology and requirements 
-The methodology and the requirements for this project are given in the report.txt file.
+The methodology and the requirements for this project are given in the report.docx file.
